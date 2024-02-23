@@ -1,5 +1,5 @@
 # Table of contents
 
 * [My Favorite Quotes from Monty Python, SpongeBob SquarePants, and Futurama and star wars](README.md)
-* [doc](doc/README.md)
-  * [Chapter1](doc/doc1.md)
+* [sync to github](sync-to-github/README.md)
+  * [Chapter1](sync-to-github/doc1.md)
