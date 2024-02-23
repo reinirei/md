@@ -1,60 +1,16 @@
-# Memorable Quotes from Monty Python, SpongeBob SquarePants, and Futurama!
+# Chapter1
 
-## Monty Python and the Holy Grail
+## &#x20; Jane Austen quotes
 
-### Plot Summary
+1. "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife." - **Pride and Prejudice**
+2. "I declare after all there is no enjoyment like reading! How much sooner one tires of anything than of a book!" - **Pride and Prejudice**
+3. "There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature." - **Northanger Abbey**
+4. "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid." - **Northanger Abbey**
+5. "Till this moment I never knew myself." - **Pride and Prejudice**
+6. "Selfishness must always be forgiven you know, because there is no hope of a cure." - **Mansfield Park**
+7. "To be fond of dancing was a certain step towards falling in love." - **Pride and Prejudice**
+8. "Let other pens dwell on guilt and misery. I quit such odious subjects as soon as I can." - **Mansfield Park**
+9. "There is no charm equal to tenderness of heart." - **Emma**
+10. "One half of the world cannot understand the pleasures of the other." - **Emma**
 
-In this classic comedy, King Arthur and his knights embark on a surreal quest to find the Holy Grail, encountering absurd challenges and memorable characters along the way.
-
-### Memorable Quotes
-
-- "What... is the air-speed velocity of an unladen swallow?"
-- "Your mother was a hamster and your father smelt of elderberries!"
-
-## SpongeBob SquarePants
-
-### Characters
-
-- SpongeBob SquarePants
-- Patrick Star
-- Squidward Tentacles
-- Sandy Cheeks
-
-### Memorable Quotes
-
-- "I'm ready! I'm ready! I'm ready!"
-- "Is mayonnaise an instrument?"
-- "Firmly grasp it!"
-
-### Episodes
-
-1. **Pizza Delivery**
-   - SpongeBob and Squidward deliver a pizza.
-2. **Band Geeks**
-   - SpongeBob forms a band to play at the Bubble Bowl.
-
-## Futurama
-
-### Characters
-
-- Fry
-- Leela
-- Bender
-- Professor Farnsworth
-
-### Memorable Quotes
-
-- "I'm gonna go build my own theme park, with blackjack and hookers. In fact, forget the park!"
-- "Shut up and take my money!"
-- "Good news, everyone!"
-
-### Episodes
-
-1. **The Luck of the Fryrish**
-   - Fry searches for his lucky seven-leaf clover.
-2. **Jurassic Bark**
-   - Fry discovers his fossilized dog from the past.
-
-## Conclusion
-
-These quotes and shows have brought laughter and joy to countless viewers over the years. They continue to entertain and inspire new generations.
+10
